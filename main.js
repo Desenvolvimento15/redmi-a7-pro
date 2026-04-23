@@ -1,9 +1,10 @@
 $(".slick-one").slick({
   lazyLoad: "ondemand",
-  arrows: true,
+  infinite:true,
+  fade: true,
+  arrows: false,
   dots: true,
-  slidesToShow: 1,
-  slidesToScroll: 1,
   autoplay: true,
-  autoplaySpeed: 3000,
+  speed: 500,
+  cssEase: 'linear'
 });
