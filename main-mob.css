@@ -1,0 +1,3128 @@
+html>img, head>img, body>img {
+    z-index: -10;
+    opacity: 0;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0
+}
+.xm-link {
+    text-decoration: none;
+    display: inline-block
+}
+.xm-text {
+    display: inline-block;
+    white-space: break-spaces !important
+}
+.xm-text sup {
+    font-feature-settings: "tnum";
+    vertical-align: super;
+    font-size: .4em;
+    font-weight: 400;
+    top: -.6em;
+    left: .6em
+}
+.xm-picture .xm-img {
+    width: 100%
+}
+.xm-img {
+    color: transparent
+}
+.xm-img[src=""], .xm-img:not([src]) {
+    visibility: hidden
+}
+.xm-picture {
+    display: inline-flex
+}
+html[data-mi-dir=rtl] .xm-text {
+    display: block
+}
+html[data-mi-dir=rtl] .xm-text {
+    direction: rtl
+}
+.section {
+    background-repeat: no-repeat;
+    margin-bottom: -1px;
+    position: relative
+}
+.mm .xm-text {
+    line-height: 1.5 !important
+}
+main, section {
+    display: block
+}
+[hidden] {
+    display: none
+}
+sup {
+    vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
+    position: relative
+}
+sup {
+    top: -.5em
+}
+img {
+    vertical-align: middle;
+    border: 0;
+    height: auto
+}
+body, p {
+    margin: 0
+}
+.slick-slider .slick-list, .slick-slider .slick-slider {
+    display: block
+}
+.slick-slider .slick-slider {
+    position: relative
+}
+.slick-slider .slick-list {
+    overflow: hidden
+}
+.slick-slider .slick-slide {
+    float: left;
+    touch-action: pan-y;
+    height: 100%;
+    display: block
+}
+main {
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 22.5rem;
+    margin: 0 auto;
+    display: flex;
+    overflow: hidden
+}
+.div1.fly-birds-page_c6e67f2caf * {
+    box-sizing: border-box;
+    line-height: 1.2
+}
+.div1.fly-birds-page_c6e67f2caf .div2 {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 22.5rem;
+    height: 38.125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div2 .image3 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 38.125rem
+}
+.div1.fly-birds-page_c6e67f2caf .div2 .div4 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 12.6667rem;
+    margin-top: -33.4792rem;
+    margin-left: 1.52083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div2 .div4 .image5 {
+    width: 12.6458rem;
+    height: 1.35417rem
+}
+.div1.fly-birds-page_c6e67f2caf .div2 .div4 .div6 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 7.97917rem;
+    margin-top: 1.04167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div2 .div4 .div6 .split_text847 {
+    color: #000;
+    width: 20.4167rem;
+    font-size: .79167rem
+}
+.div1.fly-birds-page_c6e67f2caf .div2 .div4 .div7 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 9.41667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div2 .div4 .div7 .split_text846 {
+    color: #000;
+    width: 20.4167rem;
+    font-size: .79167rem
+}
+.div1.fly-birds-page_c6e67f2caf .div2 .div4 .div8 {
+    color: #000;
+    margin-top: 1.5625rem;
+    font-size: .66667rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 62.9167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .image10 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 62.9167rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div11 {
+    z-index: 4;
+    flex-direction: column;
+    align-items: center;
+    width: 20.4167rem;
+    height: 13.8125rem;
+    margin-top: -62.25rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div11 .image12 {
+    z-index: 0;
+    width: 20.4167rem;
+    height: 13.8125rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div11 .div13 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 8.89583rem;
+    margin-top: -11.875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div11 .div13 .split_text845 {
+    color: #000;
+    text-align: center;
+    width: 18.3333rem;
+    font-size: .83333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div14 {
+    z-index: 3;
+    box-sizing: border-box;
+    align-items: flex-start;
+    width: 20.4167rem;
+    height: 14.1875rem;
+    margin-top: .625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div14 .div15 {
+    flex-direction: column;
+    align-items: center;
+    width: 9.89583rem;
+    height: 14.1875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div14 .div15 .image16 {
+    z-index: 0;
+    width: 9.89583rem;
+    height: 14.1875rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div14 .div15 .div17 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    min-width: 7.22917rem;
+    margin-top: -12.5417rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div14 .div15 .div17 .split_text844 {
+    color: #000;
+    width: 7.70833rem;
+    font-size: .83333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div14 .div20 {
+    box-sizing: border-box;
+    align-items: center;
+    width: 9.89583rem;
+    height: 14.1875rem;
+    margin-left: .625rem;
+    display: flex;
+    position: relative
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div14 .div20 .image21 {
+    z-index: 0;
+    flex-shrink: 0;
+    width: 9.89583rem;
+    height: 14.1875rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div14 .div20 .hyperos_sup {
+    color: #fff;
+    text-align: center;
+    font-size: .41667rem;
+    position: absolute;
+    top: 10.1042rem;
+    left: 8.75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div23 {
+    z-index: 2;
+    box-sizing: border-box;
+    align-items: flex-start;
+    width: 20.4167rem;
+    height: 14.1875rem;
+    margin-top: .625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div23 .div24 {
+    flex-direction: column;
+    align-items: center;
+    width: 9.89583rem;
+    height: 14.1875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div23 .div24 .image25 {
+    z-index: 0;
+    width: 9.89583rem;
+    height: 14.1875rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div23 .div24 .div26 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 7.60417rem;
+    margin-top: -12.4583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div23 .div24 .div26 .split_text841 {
+    color: #000;
+    width: 8.54167rem;
+    font-size: .83333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div23 .div27 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 9.89583rem;
+    height: 14.1875rem;
+    margin-left: .625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div23 .div27 .image28 {
+    z-index: 0;
+    width: 9.89583rem;
+    height: 14.1875rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div23 .div27 .div29 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 5.60417rem;
+    margin-top: -4.20833rem;
+    margin-left: -1.66667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div23 .div27 .div29 .split_text840 {
+    color: #000;
+    width: 6.25rem;
+    font-size: .83333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div30 {
+    z-index: 1;
+    flex-direction: column;
+    align-items: center;
+    width: 20.4167rem;
+    height: 13.7917rem;
+    margin-top: .625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div30 .image31 {
+    z-index: 0;
+    width: 20.4167rem;
+    height: 13.7917rem
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div30 .div32 {
+    z-index: 1;
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 8.66667rem;
+    margin-top: -12.0625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div9 .div30 .div32 .split_text838 {
+    color: #000;
+    text-align: center;
+    width: 18.3333rem;
+    font-size: .83333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div35 {
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 38.625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .image36 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 38.625rem
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.875rem;
+    margin-top: -36.75rem;
+    margin-left: -.79167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 .div38 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 .div38 .split_text837 {
+    color: #fff;
+    text-align: center;
+    background: linear-gradient(90deg, #78bbfa, #b7dffc);
+    border-radius: 1.5625rem;
+    padding: .88542rem 5.15625rem;
+    font-size: .95833rem
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 .div41 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.8333rem;
+    margin-top: 3.22917rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 .div41 .div42 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 16.3542rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 .div41 .div42 .div43 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 16.3125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 .div41 .div42 .div43 .split_text836 {
+    color: #000;
+    width: 19.7917rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 .div41 .div42 .div44 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 15.7917rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 .div41 .div42 .div44 .split_text835 {
+    color: #000;
+    width: 19.7917rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 .div41 .div45 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-width: 18.8333rem;
+    margin-top: 1.25rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div35 .div37 .div41 .div45 .split_text834 {
+    color: rgba(0, 0, 0, .7);
+    width: 19.6667rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div69 {
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 33.875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div69 .image70 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 33.875rem
+}
+.div1.fly-birds-page_c6e67f2caf .div69 .div71 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.4167rem;
+    margin-top: -27.4583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div69 .div71 .div72 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.4167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div69 .div71 .div72 .split_text817 {
+    color: #000;
+    width: 19.7917rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div69 .div71 .div73 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.0208rem;
+    margin-top: .83333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div69 .div71 .div73 .split_text816 {
+    color: rgba(0, 0, 0, .7);
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 53.5417rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .image75 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 53.5417rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.875rem;
+    margin-top: -52.8542rem;
+    margin-left: -.54167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div77 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div77 .split_text815 {
+    color: #fff;
+    text-align: center;
+    background: linear-gradient(90deg, #78bbfa, #b7dffc);
+    border-radius: 1.5625rem;
+    padding: .88542rem 5.10417rem;
+    font-size: .95833rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div80 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.375rem;
+    margin-top: 3.33333rem;
+    margin-left: .5rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div80 .div81 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 13.6667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div80 .div81 .split_text814 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div80 .div84 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 11.3333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div80 .div84 .split_text812 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div80 .div85 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 19.375rem;
+    margin-top: 1.66667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div80 .div85 .split_text811 {
+    color: rgba(0, 0, 0, .7);
+    width: 19.4167rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 16.25rem;
+    margin-top: 4.5625rem;
+    margin-left: .4375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div87 {
+    justify-content: flex-start;
+    align-items: center;
+    width: 16.25rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div87 .div88 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-width: 6.22917rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div87 .div88 .image89 {
+    width: .91667rem;
+    height: 1.54167rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div87 .div88 .div90 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 6.22917rem;
+    margin-top: .625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div87 .div88 .div90 .split_text810 {
+    color: #000;
+    width: 7.29167rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div87 .div93 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-width: 6.4375rem;
+    margin-left: 3.64583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div87 .div93 .image94 {
+    width: 1.33333rem;
+    height: 1.3125rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div87 .div93 .div95 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 6.375rem;
+    margin-top: .625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div87 .div93 .div95 .split_text808 {
+    color: #000;
+    width: 7.29167rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div98 {
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 15.7292rem;
+    margin-top: 2.70833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div98 .div99 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-width: 6.0625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div98 .div99 .image100 {
+    width: 1.89583rem;
+    height: 1.08333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div98 .div99 .div101 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 6.04167rem;
+    margin-top: .83333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div98 .div99 .div101 .split_text806 {
+    color: #000;
+    width: 6.04167rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div98 .div104 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 5.875rem;
+    margin-left: 3.8125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div98 .div104 .image105 {
+    width: 1.39583rem;
+    height: 1.41667rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div98 .div104 .div106 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 5.875rem;
+    margin-top: .41667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div86 .div98 .div104 .div106 .split_text804 {
+    color: #000;
+    width: 6.04167rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div109 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 16.25rem;
+    margin-top: 2.52083rem;
+    margin-left: .41667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div109 .image110 {
+    width: 16.25rem;
+    height: .04167rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div109 .div111 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 5.29167rem;
+    margin-top: 2.8125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div109 .div111 .div112 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 3.02083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div109 .div111 .div112 .split_text802 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: .95833rem
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div109 .div111 .div115 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 5.29167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div74 .div76 .div109 .div111 .div115 .split_text800 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .image116 {
+    width: 22.5rem;
+    height: 30.9583rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 63.625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .image118 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 63.625rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.9792rem;
+    margin-top: -59.125rem;
+    margin-left: .39583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div120 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.9583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div120 .div121 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    width: 19.9583rem;
+    height: 2.35417rem;
+    display: flex;
+    position: relative
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div120 .div121 .image122 {
+    flex-shrink: 0;
+    width: 19.5625rem;
+    height: 2.35417rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div120 .div121 .gemini_sup {
+    color: #fff;
+    font-size: .41667rem;
+    position: absolute;
+    top: 0;
+    left: 19.7917rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div120 .div124 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.125rem;
+    margin-top: 1.5625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div120 .div124 .split_text798 {
+    color: #fff;
+    width: 19.125rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.8125rem;
+    margin-top: 4.58333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div126 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.8125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div126 .div127 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 4.20833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div126 .div127 .split_text797 {
+    color: #fff;
+    width: 19.0417rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div126 .div128 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.8125rem;
+    margin-top: .52083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div126 .div128 .split_text796 {
+    color: #fff;
+    width: 19.1667rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div129 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 17.4792rem;
+    margin-top: 3.54167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div129 .div130 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 5.41667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div129 .div130 .split_text795 {
+    color: #fff;
+    width: 19.0417rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div129 .div131 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 17.4583rem;
+    margin-top: .52083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div129 .div131 .split_text794 {
+    color: #fff;
+    width: 19.1667rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div132 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.625rem;
+    margin-top: 3.54167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div132 .div133 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 5.83333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div132 .div133 .split_text793 {
+    color: #fff;
+    width: 19.0417rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div132 .div134 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.625rem;
+    margin-top: .52083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div132 .div134 .split_text792 {
+    color: #fff;
+    width: 19.1875rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div135 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 12.4792rem;
+    margin-top: 3.54167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div135 .div136 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 6.25rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div135 .div136 .split_text791 {
+    color: #fff;
+    width: 18.7917rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div135 .div137 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 12.4792rem;
+    margin-top: .52083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div117 .div119 .div125 .div135 .div137 .split_text790 {
+    color: #fff;
+    width: 19.0833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div138 {
+    z-index: 1;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 42.6458rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div138 .image139 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 42.6458rem
+}
+.div1.fly-birds-page_c6e67f2caf .div138 .div140 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.6875rem;
+    margin-top: -38.4792rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div138 .div140 .div141 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    width: 19.6875rem;
+    display: flex;
+    position: relative
+}
+.div1.fly-birds-page_c6e67f2caf .div138 .div140 .div141 .image142 {
+    flex-shrink: 0;
+    width: 19.2708rem;
+    height: 1.58333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div138 .div140 .div141 .google_sup {
+    color: #fff;
+    font-size: .41667rem;
+    position: absolute;
+    top: 0;
+    left: 19.4792rem
+}
+.div1.fly-birds-page_c6e67f2caf .div138 .div140 .div144 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.1042rem;
+    margin-top: 2.08333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div138 .div140 .div144 .split_text788 {
+    color: #fff;
+    width: 19.7917rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div145 {
+    z-index: 0;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 38.8542rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div145 .image146 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 38.8542rem
+}
+.div1.fly-birds-page_c6e67f2caf .div145 .div147 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.4167rem;
+    margin-top: -34.4375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div145 .div147 .div148 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 14.6458rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div145 .div147 .div148 .split_text787 {
+    color: #fff;
+    width: 19.5833rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div145 .div147 .div151 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.375rem;
+    margin-top: .41667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div145 .div147 .div151 .split_text785 {
+    color: #fff;
+    width: 19.7708rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div145 .div147 .div152 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 17.6667rem;
+    margin-top: 1.77083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div145 .div147 .div152 .split_text784 {
+    color: #fff;
+    width: 19.125rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div153 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 39.5625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .image154 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 39.5625rem
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 19.6042rem;
+    margin-top: -35.3125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div156 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-width: 18.5833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div156 .div157 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 18.5833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div156 .div157 .split_text783 {
+    color: #fff;
+    text-align: center;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div156 .div160 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 17.6042rem;
+    margin-top: 1.45833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div156 .div160 .split_text781 {
+    color: #fff;
+    text-align: center;
+    width: 18.3333rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.6042rem;
+    margin-top: 4.29167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div162 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 19.6042rem;
+    height: 6.58333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div162 .image163 {
+    z-index: 0;
+    width: 19.6042rem;
+    height: 6.58333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div162 .div164 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 5.3125rem;
+    margin-top: -2.1875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div162 .div164 .split_text780 {
+    color: #fff;
+    text-align: center;
+    width: 18.3333rem;
+    font-size: .83333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div165 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 19.6042rem;
+    height: 6.58333rem;
+    margin-top: .41667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div165 .image166 {
+    z-index: 1;
+    width: 19.6042rem;
+    height: 6.58333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div165 .div167 {
+    z-index: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 3.66667rem;
+    margin-top: -2.1875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div165 .div167 .split_text779 {
+    color: #fff;
+    text-align: center;
+    width: 18.3333rem;
+    font-size: .83333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div168 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 19.6042rem;
+    height: 6.58333rem;
+    margin-top: .41667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div168 .image169 {
+    z-index: 0;
+    width: 19.6042rem;
+    height: 6.58333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div168 .div170 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 6.79167rem;
+    margin-top: -2.1875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div153 .div155 .div161 .div168 .div170 .split_text778 {
+    color: #fff;
+    text-align: center;
+    width: 18.3333rem;
+    font-size: .83333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div171 {
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 37.8542rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div171 .image172 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 37.8542rem
+}
+.div1.fly-birds-page_c6e67f2caf .div171 .div173 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.2292rem;
+    margin-top: -33.2917rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div171 .div173 .div174 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 8.16667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div171 .div173 .div174 .split_text777 {
+    color: #000;
+    width: 19.5833rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div171 .div173 .div177 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 12.5833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div171 .div173 .div177 .split_text775 {
+    color: #000;
+    width: 13.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div171 .div173 .div178 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.2292rem;
+    margin-top: 1.45833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div171 .div173 .div178 .split_text774 {
+    color: rgba(0, 0, 0, .7);
+    width: 19.625rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div179 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 46.9167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .image180 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 46.9167rem
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.5208rem;
+    margin-top: -42.125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div182 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div182 .split_text773 {
+    color: #fff;
+    text-align: center;
+    background: linear-gradient(90deg, #78bbfa, #b7dffc);
+    border-radius: 1.5625rem;
+    padding: .88542rem 3.83333rem;
+    font-size: .95833rem
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div185 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.4792rem;
+    margin-top: 3.64583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div185 .div186 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 14.9375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div185 .div186 .split_text772 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div185 .div187 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 14.5rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div185 .div187 .split_text771 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div185 .div188 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.4792rem;
+    margin-top: 1.25rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div185 .div188 .split_text770 {
+    color: rgba(0, 0, 0, .7);
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div189 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-width: 7.1875rem;
+    margin-top: 3.64583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div189 .div190 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 3.70833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div189 .div190 .split_text769 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.16667rem
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div189 .div191 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 7.1875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div179 .div181 .div189 .div191 .split_text768 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div194 {
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 34.1042rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div194 .image195 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 34.1042rem
+}
+.div1.fly-birds-page_c6e67f2caf .div194 .div196 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.1458rem;
+    margin-top: -31.5417rem;
+    margin-left: -1.39583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div194 .div196 .div197 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 14.9375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div194 .div196 .div197 .split_text766 {
+    color: #000;
+    width: 15.4583rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div194 .div196 .div200 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.1458rem;
+    margin-top: .9375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div194 .div196 .div200 .split_text764 {
+    color: #000;
+    width: 19.5208rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div201 {
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 50rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .image202 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 50rem
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.2708rem;
+    margin-top: -48.9167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div204 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div204 .split_text763 {
+    color: #fff;
+    text-align: center;
+    background: linear-gradient(90deg, #78bbfa, #b7dffc);
+    border-radius: 1.5625rem;
+    padding: .88542rem 5.16667rem;
+    font-size: .95833rem
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div207 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.2083rem;
+    margin-top: 3.54167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div207 .div208 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 7.14583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div207 .div208 .split_text762 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div207 .div209 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.1458rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div207 .div209 .split_text761 {
+    color: #000;
+    width: 19.5833rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 {
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 11.2917rem;
+    margin-top: 3.54167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 .div211 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-width: 4.85417rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 .div211 .div212 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 4.85417rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 .div211 .div212 .split_text760 {
+    color: #000;
+    width: 4.58333rem;
+    font-size: 1.16667rem
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 .div211 .div215 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 3.35417rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 .div211 .div215 .split_text758 {
+    color: #000;
+    width: 4.58333rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 .div216 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 3.47917rem;
+    margin-left: 3.125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 .div216 .div217 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 3.45833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 .div216 .div217 .split_text757 {
+    color: #000;
+    width: 4.58333rem;
+    font-size: 1.16667rem
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 .div216 .div220 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 2.41667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div201 .div203 .div210 .div216 .div220 .split_text755 {
+    color: #000;
+    width: 4.58333rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div253 {
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 31.6667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div253 .image254 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 31.6667rem
+}
+.div1.fly-birds-page_c6e67f2caf .div253 .div255 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.3542rem;
+    margin-top: -29.5625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div253 .div255 .div256 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 10.0417rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div253 .div255 .div256 .split_text743 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div253 .div255 .div257 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 11.5833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div253 .div255 .div257 .split_text742 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div253 .div255 .div258 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.3542rem;
+    margin-top: .9375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div253 .div255 .div258 .split_text741 {
+    color: rgba(0, 0, 0, .7);
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div259 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 48.1458rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .image260 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 48.1458rem
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.4792rem;
+    margin-top: -43.125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div262 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div262 .split_text740 {
+    color: #fff;
+    text-align: center;
+    background: linear-gradient(90deg, #78bbfa, #b7dffc);
+    border-radius: 1.5625rem;
+    padding: .88542rem 5.08333rem;
+    font-size: .95833rem
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div265 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 15.7708rem;
+    margin-top: 3.125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div265 .div266 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 15.75rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div265 .div266 .split_text739 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div265 .div269 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 8.5625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div265 .div269 .split_text737 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div270 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 19.4792rem;
+    margin-top: 1.5625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div270 .split_text736 {
+    color: rgba(0, 0, 0, .7);
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div273 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 3.89583rem;
+    margin-top: 4.04167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div273 .div274 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 2.875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div273 .div274 .split_text734 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.16667rem
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div273 .div275 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 3.89583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div259 .div261 .div273 .div275 .split_text733 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div284 {
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 32.7292rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div284 .image285 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 32.7292rem
+}
+.div1.fly-birds-page_c6e67f2caf .div284 .div286 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.3958rem;
+    margin-top: -31.8333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div284 .div286 .div287 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 8.25rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div284 .div286 .div287 .split_text732 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div284 .div286 .div288 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 13.125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div284 .div286 .div288 .split_text731 {
+    color: #000;
+    width: 14.5833rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div284 .div286 .div289 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.3958rem;
+    margin-top: 1.45833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div284 .div286 .div289 .split_text730 {
+    color: rgba(0, 0, 0, .7);
+    width: 19.6875rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div290 {
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 40.375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div290 .image291 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 40.375rem
+}
+.div1.fly-birds-page_c6e67f2caf .div290 .div292 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 18.0208rem;
+    margin-top: -35.375rem;
+    margin-left: -1.72917rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div290 .div292 .div293 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 13rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div290 .div292 .div293 .split_text729 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div290 .div292 .div294 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 12.8958rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div290 .div292 .div294 .split_text728 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div290 .div292 .div295 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.0208rem;
+    margin-top: 1.45833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div290 .div292 .div295 .split_text727 {
+    color: rgba(0, 0, 0, .7);
+    width: 18.3333rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div296 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 35.4167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .image297 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 35.4167rem
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div298 {
+    z-index: 2;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 17.6667rem;
+    margin-top: -31rem;
+    margin-left: -1.91667rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div298 .div299 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 5.375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div298 .div299 .split_text725 {
+    color: #000;
+    width: 17.5625rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div298 .div302 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 15.5625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div298 .div302 .split_text724 {
+    color: #000;
+    width: 16.875rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div298 .div303 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 17.6667rem;
+    margin-top: 1.25rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div298 .div303 .split_text723 {
+    color: rgba(0, 0, 0, .7);
+    width: 19.7708rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div304 {
+    z-index: 1;
+    box-sizing: border-box;
+    align-items: flex-start;
+    width: 20.4792rem;
+    height: 14.2708rem;
+    margin-top: 4.52083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div304 .div305 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 9.875rem;
+    height: 14.2708rem;
+    display: flex;
+    position: relative
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div304 .div305 .image306 {
+    z-index: 0;
+    width: 9.875rem;
+    height: 14.2708rem
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div304 .div305 .div307 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 2.35417rem;
+    display: flex;
+    position: absolute;
+    top: 12.5rem;
+    left: 7.04167rem
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div304 .div305 .div307 .split_text722 {
+    color: #fff;
+    width: 2.83333rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div304 .div308 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 9.875rem;
+    height: 14.2708rem;
+    margin-left: .72917rem;
+    display: flex;
+    position: relative
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div304 .div308 .image309 {
+    z-index: 0;
+    width: 9.875rem;
+    height: 14.2708rem
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div304 .div308 .div310 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 1.85417rem;
+    display: flex;
+    position: absolute;
+    top: 12.5rem;
+    left: 7.04167rem
+}
+.div1.fly-birds-page_c6e67f2caf .div296 .div304 .div308 .div310 .split_text721 {
+    color: #fff;
+    width: 2.29167rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 22.5rem;
+    height: 41.875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .image312 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 41.875rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div313 {
+    z-index: 2;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 15.4792rem;
+    margin-top: -38.6458rem;
+    margin-left: 1.45833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div313 .div314 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 15.4792rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div313 .div314 .split_text720 {
+    color: #000;
+    width: 15.6875rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div313 .div315 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 14.0417rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div313 .div315 .split_text719 {
+    color: #000;
+    width: 16.6042rem;
+    font-size: 1.5rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 16.8125rem;
+    margin-top: 4.625rem;
+    margin-left: 1.45833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 {
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 13.9583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 .div318 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 6.85417rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 .div318 .div319 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 3.875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 .div318 .div319 .split_text718 {
+    color: #000;
+    width: 7.70833rem;
+    font-size: .95833rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 .div318 .div320 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 6.83333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 .div318 .div320 .split_text717 {
+    color: rgba(0, 0, 0, .7);
+    width: 7.70833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 .div323 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-width: 4.10417rem;
+    margin-left: 3.125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 .div323 .div324 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 1.72917rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 .div323 .div324 .split_text715 {
+    color: #000;
+    width: 7.70833rem;
+    font-size: .95833rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 .div323 .div325 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 4.08333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div317 .div323 .div325 .split_text714 {
+    color: rgba(0, 0, 0, .7);
+    width: 7.70833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    width: 16.8125rem;
+    margin-top: 3.125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 .div329 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 7.77083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 .div329 .div330 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 2.64583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 .div329 .div330 .split_text712 {
+    color: #000;
+    width: 7.70833rem;
+    font-size: .95833rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 .div329 .div331 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 7.75rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 .div329 .div331 .split_text711 {
+    color: rgba(0, 0, 0, .7);
+    width: 7.70833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 .div334 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 6.95833rem;
+    margin-left: 2.08333rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 .div334 .div335 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 3.125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 .div334 .div335 .split_text709 {
+    color: #000;
+    width: 7.70833rem;
+    font-size: .95833rem
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 .div334 .div336 {
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 6.95833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div311 .div316 .div328 .div334 .div336 .split_text708 {
+    color: rgba(0, 0, 0, .7);
+    width: 7.70833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div364 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 30.9167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div364 .image365 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 30.9167rem
+}
+.div1.fly-birds-page_c6e67f2caf .div364 .div3667 {
+    z-index: 2;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: -26.4583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div364 .div3667 .image366 {
+    z-index: 3;
+    width: 13.6458rem;
+    height: 2.14583rem
+}
+.div1.fly-birds-page_c6e67f2caf .div364 .div3667 .div367 {
+    z-index: 2;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    min-width: 19.3542rem;
+    margin-top: .9375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div364 .div3667 .div367 .split_text699 {
+    color: #000;
+    text-align: center;
+    width: 19.5rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div364 .div3667 .div370 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 18.8958rem;
+    margin-top: 5rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div364 .div3667 .div370 .div371 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 18.8958rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div364 .div3667 .div370 .div371 .split_text697 {
+    color: rgba(0, 0, 0, .7);
+    text-align: center;
+    width: 19.3958rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div364 .div3667 .div370 .div372 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 18rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div364 .div3667 .div370 .div372 .split_text696 {
+    color: #000;
+    text-align: center;
+    width: 18.0417rem;
+    font-size: .75rem;
+    text-decoration: underline
+}
+.div1.fly-birds-page_c6e67f2caf .div382 {
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 22.5rem;
+    padding: 5.72917rem 0;
+    display: flex;
+    position: relative
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .image383 {
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 {
+    z-index: 1;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.4792rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div385 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 2.52083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div385 .split_text691 {
+    color: #000;
+    width: 19.5833rem;
+    font-size: .83333rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div386 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.0417rem;
+    margin-top: 2.4375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div386 .split_text690 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div387 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.2083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div387 .split_text689 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div388 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 16.9583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div388 .split_text688 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div389 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.9583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div389 .split_text687 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div390 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 17.0833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div390 .split_text686 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div391 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.6458rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div391 .split_text685 {
+    color: #7d7d7d;
+    width: 19.7292rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div392 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.2708rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div392 .split_text684 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div393 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 16.4583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div393 .split_text683 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div394 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div394 .split_text682 {
+    color: #7d7d7d;
+    width: 19.625rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div395 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.1458rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div395 .split_text681 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div396 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.4583rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div396 .split_text680 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div397 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.5208rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div397 .split_text679 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div398 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.0625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div398 .split_text678 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div399 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.4792rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div399 .split_text677 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div400 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 17.2083rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div400 .split_text676 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div401 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.5833rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div401 .split_text675 {
+    color: #7d7d7d;
+    width: 19.6042rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div402 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 16.2292rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div402 .split_text674 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div403 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.6458rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div403 .split_text673 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div404 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.4375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div404 .split_text672 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div405 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.0625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div405 .split_text671 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div406 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.3125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div406 .split_text670 {
+    color: #7d7d7d;
+    width: 19.6875rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div407 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 16.9792rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div407 .split_text669 {
+    color: #7d7d7d;
+    width: 17.3125rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div408 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.1667rem;
+    margin-top: .625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div408 .split_text668 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div409 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.3958rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div409 .split_text667 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div410 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.3958rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div410 .split_text666 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div411 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 12.3125rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div411 .split_text665 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div412 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.7292rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div412 .split_text664 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div413 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.0625rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div413 .split_text663 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div414 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.6875rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div415 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 17.5417rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div415 .split_text661 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div416 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.9167rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div416 .split_text660 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div417 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 14.375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div417 .split_text659 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div418 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.4375rem;
+    display: flex
+}
+.div1.fly-birds-page_c6e67f2caf .div382 .div384 .div418 .split_text658 {
+    color: #7d7d7d;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div1 .color_phone_box {
+    z-index: 18;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 22.5rem;
+    height: 49.7917rem;
+    display: flex
+}
+.div1 .color_phone_box .color_phone_background {
+    z-index: 0;
+    width: 22.5rem;
+    height: 49.7917rem
+}
+.div1 .color_phone_box .div223 {
+    z-index: 3;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 18.0417rem;
+    margin-top: -47rem;
+    margin-left: -1.45833rem;
+    display: flex
+}
+.div1 .color_phone_box .div223 .div224 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 10.625rem;
+    display: flex
+}
+.div1 .color_phone_box .div223 .div224 .split_text754 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1 .color_phone_box .div223 .div225 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 17.9167rem;
+    display: flex
+}
+.div1 .color_phone_box .div223 .div225 .split_text753 {
+    color: #000;
+    width: 18.3333rem;
+    font-size: 1.5rem
+}
+.div1 .color_phone_box .div223 .div226 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 17.6042rem;
+    margin-top: 1.45833rem;
+    display: flex
+}
+.div1 .color_phone_box .div223 .div226 .split_text752 {
+    color: rgba(0, 0, 0, .7);
+    width: 18.5417rem;
+    font-size: .75rem
+}
+.div1 .color_phone_box .color_phone_scroll {
+    z-index: 9;
+    width: 22.5rem;
+    height: 21.6875rem;
+    margin-top: 4.16667rem
+}
+.div1 .color_phone_box .color_phone_point_box {
+    z-index: 10;
+    justify-content: center;
+    align-items: center;
+    width: 22.5rem;
+    margin-top: 5.20833rem;
+    display: flex;
+    position: relative
+}
+.div1 .color_phone_box .color_phone_point_box .color_phone_textItem {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0
+}
+.div1 .color_phone_box .color_phone_point_box .color_phone_textItem .color_phone_color_text {
+    color: #000;
+    text-align: center;
+    font-size: .95833rem;
+    transition: all .3s
+}
+.div1 .color_phone_box .color_phone_point_box .color_phone_textItem .color_phone_desc_text {
+    color: rgba(0, 0, 0, .7);
+    text-align: center;
+    margin-top: .3125rem;
+    font-size: .75rem;
+    transition: all .3s
+}
+.div1 .color_phone_box .color_phone_point_box .text_active .color_phone_textItem {
+    display: flex
+}
+.div1 .samples {
+    z-index: 1;
+    box-sizing: border-box;
+    background-color: #fff;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 28.7292rem;
+    display: flex
+}
+.div1 .samples .slider3 {
+    z-index: 2;
+    width: 22.5rem;
+    height: 19.5625rem
+}
+.div1 .samples .slick-active {
+    z-index: 9
+}
+.div1 .features {
+    box-sizing: border-box;
+    background-color: #fff;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 47.0208rem;
+    display: flex
+}
+.div1 .features .image340 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 47.0208rem
+}
+.div1 .features .div341 {
+    z-index: 3;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 10.0833rem;
+    margin-top: -41.5625rem;
+    display: flex
+}
+.div1 .features .div341 .split_text706 {
+    color: #000;
+    text-align: center;
+    width: 17.875rem;
+    font-size: 1.5rem
+}
+.div1 .features .slidercontainer_features {
+    width: 20.4167rem;
+    height: 27.2708rem;
+    margin-top: 4.4375rem
+}
+.div1 .features .slidercontainer_features .slick-active {
+    z-index: 9
+}
+.div1 .features .scroll_wrap {
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex
+}
+.div1 .features .scroll_wrap .slider_image {
+    z-index: 0;
+    width: 20.4167rem;
+    height: 27.2708rem
+}
+.div1 .features .scroll_wrap .scroll_text {
+    z-index: 3;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    height: auto !important
+}
+.div1 .features .scroll_wrap .scroll_text .div350 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 12.4167rem;
+    margin-top: -23.4375rem;
+    display: flex
+}
+.div1 .features .scroll_wrap .scroll_text .div350 .split_text705 {
+    color: #000;
+    text-align: center;
+    width: 14.375rem;
+    font-size: 1rem
+}
+.div1 .features .scroll_wrap .scroll_text .div351 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 11.125rem;
+    margin-top: -23.4375rem;
+    display: flex
+}
+.div1 .features .scroll_wrap .scroll_text .div351 .split_text704 {
+    color: #000;
+    text-align: center;
+    width: 14.375rem;
+    font-size: 1rem
+}
+.div1 .features .scroll_wrap .scroll_text .div352 {
+    z-index: 1;
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-width: 10.0625rem;
+    margin-top: -23.4375rem;
+    display: flex
+}
+.div1 .features .scroll_wrap .scroll_text .div352 .split_text703 {
+    color: #000;
+    text-align: center;
+    width: 14.375rem;
+    font-size: 1rem
+}
+.div1 .features .scroll_wrap .scroll_text .image355 {
+    z-index: 2;
+    width: 2.91667rem;
+    height: 2.91667rem;
+    margin-top: -23.4375rem
+}
+.div1 .features .scroll_wrap .scroll_text .div356 {
+    z-index: 1;
+    box-sizing: border-box;
+    align-items: center;
+    min-width: 2.54167rem;
+    margin-top: .625rem;
+    display: flex
+}
+.div1 .features .scroll_wrap .scroll_text .div356 .split_text701 {
+    color: #000;
+    text-align: center;
+    width: 14.375rem;
+    font-size: 1rem
+}
+.div48 {
+    box-sizing: border-box;
+    background-color: #fff;
+    flex-direction: column;
+    align-items: center;
+    width: 22.5rem;
+    height: 48.6042rem;
+    display: flex;
+    position: relative
+}
+.div48 .image49 {
+    z-index: 0;
+    width: 22.5rem;
+    height: 48.6042rem;
+    position: fixed
+}
+.div48 .display_1 {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 22.5rem;
+    display: flex;
+    position: absolute
+}
+.div48 .display_1 .div52 {
+    z-index: 2;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 18.8542rem;
+    margin-top: 4.47917rem;
+    margin-left: 1.5625rem;
+    display: flex
+}
+.div48 .display_1 .div52 .div53 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.375rem;
+    display: flex
+}
+.div48 .display_1 .div52 .div53 .split_text828 {
+    color: #000;
+    width: 19.5833rem;
+    font-size: 1.5rem
+}
+.div48 .display_1 .div52 .div54 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 13.6875rem;
+    display: flex
+}
+.div48 .display_1 .div52 .div54 .split_text827 {
+    color: #000;
+    width: 19.5833rem;
+    font-size: 1.5rem
+}
+.div48 .display_1 .div52 .div55 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 18.8125rem;
+    margin-top: .9375rem;
+    display: flex
+}
+.div48 .display_1 .div52 .div55 .split_text826 {
+    color: #000;
+    width: 19.6042rem;
+    font-size: .75rem
+}
+.div48 .display_1 .div56 {
+    z-index: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 4.25rem;
+    margin-top: 3.77083rem;
+    margin-left: 1.5625rem;
+    display: flex
+}
+.div48 .display_1 .div56 .div57 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 4.25rem;
+    display: flex
+}
+.div48 .display_1 .div56 .div57 .split_text825 {
+    color: #000;
+    width: 19.5833rem;
+    font-size: 1.16667rem
+}
+.div48 .display_1 .div56 .div58 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 1.5625rem;
+    display: flex
+}
+.div48 .display_1 .div56 .div58 .split_text824 {
+    color: #000;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div48 .display_2 {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 22.5rem;
+    display: flex;
+    position: absolute
+}
+.div48 .display_2 .div59 {
+    z-index: 2;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 19.4167rem;
+    margin-top: 4.20833rem;
+    margin-left: 1.5625rem;
+    display: flex
+}
+.div48 .display_2 .div59 .div60 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 15.3333rem;
+    display: flex
+}
+.div48 .display_2 .div59 .div60 .split_text823 {
+    color: #000;
+    width: 19.5833rem;
+    font-size: 1.5rem
+}
+.div48 .display_2 .div59 .div61 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 11.1667rem;
+    display: flex
+}
+.div48 .display_2 .div59 .div61 .split_text822 {
+    color: #000;
+    width: 19.5833rem;
+    font-size: 1.5rem
+}
+.div48 .display_2 .div59 .div62 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 19.3958rem;
+    margin-top: 1.60417rem;
+    display: flex
+}
+.div48 .display_2 .div59 .div62 .split_text821 {
+    color: #000;
+    width: 19.5833rem;
+    font-size: .75rem
+}
+.div48 .div63 {
+    z-index: 5;
+    box-sizing: border-box;
+    opacity: 0;
+    align-items: flex-start;
+    width: 19.1042rem;
+    display: flex;
+    position: absolute;
+    top: 42.0833rem
+}
+.div48 .div63 .image64 {
+    flex-shrink: 0;
+    width: 3.41667rem;
+    height: 3.41667rem
+}
+.div48 .div63 .div65 {
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 14.5rem;
+    margin-left: 1.1875rem;
+    display: flex
+}
+.div48 .div63 .div65 .div66 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 13.9583rem;
+    display: flex
+}
+.div48 .div63 .div65 .div66 .split_text820 {
+    color: #2a1616;
+    width: 14.5833rem;
+    font-size: .75rem
+}
+.div48 .div63 .div65 .div67 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 12.3333rem;
+    display: flex
+}
+.div48 .div63 .div65 .div67 .split_text819 {
+    color: #2a1616;
+    width: 14.5833rem;
+    font-size: .75rem
+}
+.div48 .div63 .div65 .div68 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 14.5rem;
+    display: flex
+}
+.div48 .div63 .div65 .div68 .split_text818 {
+    color: #2a1616;
+    width: 14.5833rem;
+    font-size: .75rem
+}
+.f-light {
+    font-weight: 300
+}
+.f-bold {
+    font-weight: 700
+}
+.xm-price {
+    font-weight: 400 !important
+}
